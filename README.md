@@ -56,9 +56,10 @@ Free AI tools in 2026 are better than most paid plans were in 2024. This list on
 
 ## AI Voice & Music
 
-- [ElevenLabs](https://elevenlabs.io) — Best AI voice generation; free tier gives ~10,000 characters/month.
-- [Suno](https://suno.com) — Free AI music generation with daily credit refills.
 - [edge-tts](https://github.com/rany2/edge-tts) — Free, open-source text-to-speech via Microsoft Edge voices.
+- [ElevenLabs](https://elevenlabs.io) — Best AI voice generation; free tier gives ~10,000 characters/month.
+- [QuietTake Noise Remover](https://noiseremover.site/) — Free RNNoise/WASM speech noise reduction in the browser with original/cleaned playback and 48 kHz 16-bit WAV export; each file must be 50 MB or smaller and five minutes or shorter, with no account or audio upload required.
+- [Suno](https://suno.com) — Free AI music generation with daily credit refills.
 
 ## AI Coding Assistants
 
