@@ -1,8 +1,14 @@
-# 🎁 Awesome Free AI Tools
-
-> A curated awesome list of the **best free AI tools in 2026** — AI chatbots, image generators, video creators, voice AI, music, coding assistants, productivity apps, and free AI APIs for developers. **No credit card required.**
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
+  <img src="assets/banner.svg" alt="Awesome Free AI Tools" width="100%">
+  <br><br>
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+  <img src="https://img.shields.io/github/stars/bilalsyr/awesome-free-ai-tools?style=flat-square" alt="GitHub stars">
+  <img src="https://img.shields.io/github/forks/bilalsyr/awesome-free-ai-tools?style=flat-square" alt="GitHub forks">
+  <img src="https://img.shields.io/github/last-commit/bilalsyr/awesome-free-ai-tools?style=flat-square" alt="Last commit">
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
+  <br><br>
+  <b>A curated awesome list of the <b>best free AI tools in 2026</b> — AI chatbots, image generators, video creators, voice AI, music, coding assistants, productivity apps, and free AI APIs for developers. <b>No credit card required.</b></b>
+</div>
 
 Free AI tools in 2026 are better than most paid plans were in 2024. This list only includes tools with a **genuinely usable free tier** — no credit-card walls, no fake "free trials" that expire in 7 days. Every entry notes what the free tier actually gives you.
 
