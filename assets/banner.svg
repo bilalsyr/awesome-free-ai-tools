@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#141433"/>
+      <stop offset="0.55" stop-color="#2b1a4e"/>
+      <stop offset="1" stop-color="#0e2a5c"/>
+    </linearGradient>
+    <radialGradient id="orbA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#e94560" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#e94560" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#0f9bff" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#0f9bff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbC" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#9d4edd" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#9d4edd" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1280" height="640" fill="url(#bg)"/>
+  <circle cx="180" cy="120" r="260" fill="url(#orbA)"/>
+  <circle cx="1120" cy="540" r="300" fill="url(#orbB)"/>
+  <circle cx="1050" cy="110" r="200" fill="url(#orbC)"/>
+
+  <g fill="#ffffff" opacity="0.14">
+    <circle cx="120" cy="480" r="5"/>
+    <circle cx="240" cy="560" r="4"/>
+    <circle cx="380" cy="500" r="6"/>
+    <circle cx="900" cy="140" r="5"/>
+    <circle cx="1020" cy="420" r="4"/>
+    <circle cx="1150" cy="240" r="6"/>
+    <circle cx="760" cy="90" r="4"/>
+    <circle cx="520" cy="140" r="5"/>
+  </g>
+
+  <!-- gift box icon -->
+  <g transform="translate(600,120)">
+    <rect x="0" y="40" width="80" height="64" rx="6" fill="#e94560"/>
+    <rect x="-8" y="22" width="96" height="24" rx="6" fill="#ff6b81"/>
+    <rect x="36" y="22" width="8" height="82" fill="#ffd166"/>
+    <rect x="22" y="2" width="12" height="24" rx="6" fill="#ffd166" transform="rotate(-24 28 14)"/>
+    <rect x="46" y="2" width="12" height="24" rx="6" fill="#ffd166" transform="rotate(24 52 14)"/>
+  </g>
+
+  <text x="640" y="300" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="84" font-weight="bold" fill="#ffffff" letter-spacing="1">Awesome Free AI Tools</text>
+  <text x="640" y="368" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" fill="#c9c9ec">The best free AI tools in 2026 — no credit card required</text>
+
+  <g font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#8f8fb8">
+    <text x="640" y="470" text-anchor="middle">Chatbots &#183; Image &#183; Video &#183; Voice &#183; Music &#183; Coding &#183; APIs</text>
+  </g>
+
+  <rect x="560" y="520" width="160" height="52" rx="26" fill="none" stroke="#e94560" stroke-width="2.5"/>
+  <text x="640" y="555" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="bold" fill="#ffffff">100% FREE</text>
+</svg>
