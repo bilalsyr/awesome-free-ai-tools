@@ -48,12 +48,14 @@ Free AI tools in 2026 are better than most paid plans were in 2024. This list on
 - [Ideogram](https://ideogram.ai) - Free tier, best-in-class text rendering inside images.
 - [Adobe Firefly](https://firefly.adobe.com) - Free tier with commercially safer outputs.
 - [Pollinations.ai](https://pollinations.ai) - Free AI image API, no signup required.
+- [PromptImage](https://promptimage.cloud) - Free AI image gallery + image/video generator (Freemium).
 
 ## AI Video Creation & Editing
 
 - [CapCut](https://www.capcut.com) - Free AI video editing: auto-captions, background removal, smart cuts.
 - [Kling](https://klingai.com) - Free tier for AI video generation.
 - [Hailuo AI](https://hailuoai.video) - Free tier video generation from MiniMax.
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent text/image-to-video via xAI Grok Imagine API (not official xAI/X). Free trial credits.
 
 ## AI Voice & Music
 
