@@ -44,6 +44,7 @@ Free AI tools in 2026 are better than most paid plans were in 2024. This list on
 ## AI Image Generation
 
 - [Microsoft Designer](https://designer.microsoft.com) - Free AI image generation (Bing Image Creator), easiest start.
+- [artgen](https://artgen.net/en/tools/image-to-pixel-art) - Free AI image tools: pixel art converter, ASCII art generator, and background removal in the browser.
 - [Leonardo.ai](https://leonardo.ai) - Daily free tokens for concept art and social graphics.
 - [Ideogram](https://ideogram.ai) - Free tier, best-in-class text rendering inside images.
 - [Adobe Firefly](https://firefly.adobe.com) - Free tier with commercially safer outputs.
@@ -81,6 +82,8 @@ Free AI tools in 2026 are better than most paid plans were in 2024. This list on
 - [Bolt.new](https://bolt.new) - Free tier for building apps with AI prompts.
 
 ## Free AI APIs for Developers
+
+- [System One API](https://system-one.dev/en/api) - Unified AI API / open-source SDK (`@system-one-ai/core`) for models and agents. Early OSS project (~2 GitHub stars).
 
 - [Google Gemini API](https://aistudio.google.com) - Generous free tier for the Gemini models.
 - [Groq](https://groq.com) - Free tier with extremely fast LLM inference.
