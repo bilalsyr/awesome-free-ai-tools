@@ -50,6 +50,7 @@ Free AI tools in 2026 are better than most paid plans were in 2024. This list on
 - [Adobe Firefly](https://firefly.adobe.com) - Free tier with commercially safer outputs.
 - [Pollinations.ai](https://pollinations.ai) - Free AI image API, no signup required.
 - [PromptImage](https://promptimage.cloud) - Free AI image gallery + image/video generator (Freemium).
+- [TeslaWraps](https://teslawraps.design) - Free browser Tesla Paint Shop wrap editor; core editing + PNG export free, no account.
 
 ## AI Video Creation & Editing
 
