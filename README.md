@@ -55,6 +55,7 @@ Free AI tools in 2026 are better than most paid plans were in 2024. This list on
 ## AI Video Creation & Editing
 
 - [CapCut](https://www.capcut.com) - Free AI video editing: auto-captions, background removal, smart cuts.
+- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
 - [Kling](https://klingai.com) - Free tier for AI video generation.
 - [Hailuo AI](https://hailuoai.video) - Free tier video generation from MiniMax.
 - [GrokVideo Studio](https://grokvideogenerator.dev) - Independent text/image-to-video via xAI Grok Imagine API (not official xAI/X). Free trial credits.
