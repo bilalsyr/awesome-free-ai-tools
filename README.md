@@ -58,7 +58,7 @@ Free AI tools in 2026 are better than most paid plans were in 2024. This list on
 - [Kling](https://klingai.com) - Free tier for AI video generation.
 - [Hailuo AI](https://hailuoai.video) - Free tier video generation from MiniMax.
 - [GrokVideo Studio](https://grokvideogenerator.dev) - Independent text/image-to-video via xAI Grok Imagine API (not official xAI/X). Free trial credits.
-- [RefVid](https://refvid.com/free-ai-video-generator) - Image-to-video that keeps your own character or product the same across shots, from 1–5 photos; a free account gets one 5-second 720p clip, no card, no watermark, commercial use allowed.
+- [RefVid](https://refvid.com/free-ai-video-generator) - Image-to-video made from 1–5 of your own reference photos of a character or product; a free account gets one 5-second clip, no card, no watermark, commercial use allowed.
 
 ## AI Voice & Music
 
