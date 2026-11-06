@@ -81,6 +81,7 @@ Free AI tools in 2026 are better than most paid plans were in 2024. This list on
 - [Canva AI](https://www.canva.com) - Free tier with Magic Studio AI design credits.
 - [Zapier](https://zapier.com) - Free tier: 100 automated tasks/month, now with AI steps.
 - [Otter.ai](https://otter.ai) - Free basic plan for AI meeting notes and transcription.
+- [Transcribe Video: To The Text](https://video2text.ttt.so) - iOS app for video/YouTube/Vimeo/live-voice transcription with speaker split, Summarize, TXT/DOCX export; free ~5 min total + 5 MB file cap.
 - [Gamma](https://gamma.app) - Free one-time credits for AI-generated presentations and sites.
 - [v0.dev](https://v0.dev) - Free tier for generating UI with AI.
 - [Bolt.new](https://bolt.new) - Free tier for building apps with AI prompts.
