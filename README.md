@@ -37,9 +37,10 @@ Free AI tools in 2026 are better than most paid plans were in 2024. This list on
 
 ## AI Search & Research
 
-- [Perplexity](https://www.perplexity.ai) - AI search engine with cited, real-time answers; free tier with limited Pro searches.
-- [NotebookLM](https://notebooklm.google.com) - Google's free research assistant: upload sources, get summaries and study guides.
+- [DisconfirmAI](https://disconfirmai.com/en) - Investment research platform that looks for disconfirming evidence before you build conviction; public reading needs no sign-in.
 - [Gemini Deep Research](https://gemini.google.com) - Multi-step research agent included in Gemini's free tier.
+- [NotebookLM](https://notebooklm.google.com) - Google's free research assistant: upload sources, get summaries and study guides.
+- [Perplexity](https://www.perplexity.ai) - AI search engine with cited, real-time answers; free tier with limited Pro searches.
 
 ## AI Image Generation
 
