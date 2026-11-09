@@ -49,6 +49,7 @@ Free AI tools in 2026 are better than most paid plans were in 2024. This list on
 - [Ideogram](https://ideogram.ai) - Free tier, best-in-class text rendering inside images.
 - [Adobe Firefly](https://firefly.adobe.com) - Free tier with commercially safer outputs.
 - [AI Clothes Changer](https://aiclotheschanger.net/) — Free AI virtual try-on: upload a photo and outfit to preview new looks in-browser; free plan with daily credits, no credit card required to start.
+- [FaceSwap.Free](https://faceswap.free/) - Free browser face swap for photos and short GIFs with four AI models; no sign-up and no limit on swaps, results carry a small semi-transparent mark.
 - [Pollinations.ai](https://pollinations.ai) - Free AI image API, no signup required.
 - [PromptImage](https://promptimage.cloud) - Free AI image gallery + image/video generator (Freemium).
 - [TeslaWraps](https://teslawraps.design) - Free browser Tesla Paint Shop wrap editor; core editing + PNG export free, no account.
