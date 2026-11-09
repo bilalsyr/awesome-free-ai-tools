@@ -57,6 +57,8 @@ Free AI tools in 2026 are better than most paid plans were in 2024. This list on
 ## AI Video Creation & Editing
 
 - [CapCut](https://www.capcut.com) - Free AI video editing: auto-captions, background removal, smart cuts.
+- [Cyanvid](https://cyanvid.com/?utm_source=bilalsyr-awesome-free-ai-tools&utm_medium=directory&utm_campaign=backlinks) - AI video generator from text or images; credit quotes before generate.
+- [Barz Studio](https://barzvideo.com/?utm_source=bilalsyr-awesome-free-ai-tools&utm_medium=directory&utm_campaign=backlinks) - Free browser rap lyric video maker; beat-reactive captions, export 9:16 WebM.
 - [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
 - [Kling](https://klingai.com) - Free tier for AI video generation.
 - [Hailuo AI](https://hailuoai.video) - Free tier video generation from MiniMax.
