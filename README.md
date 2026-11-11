@@ -83,6 +83,9 @@ Free AI tools in 2026 are better than most paid plans were in 2024. This list on
 - [AI 만화 번역기](https://www.mangatranslate.com/ko/ai-manga-translator/) — Ficory LLC의 기업급 만화 리더는 개인의 일괄·맞춤 번역, 스튜디오용 완전한 온라인 Photoshop 스타일 편집기, 개인 작업 흐름용 API 연동과 제품이 지원하는 모든 번역 언어를 제공하며, 일일 출석으로 받는 무료 크레딧 안에서 번역을 체험할 수 있습니다.
 
 - [Canva AI](https://www.canva.com) - Free tier with Magic Studio AI design credits.
+
+- [EasySociable](https://easysociable.com/) — Agent skill that turns a prompt into a branded social carousel (TikTok, Instagram, LinkedIn). Free plan $0 with 3 downloads/mo, no credit card.
+
 - [Zapier](https://zapier.com) - Free tier: 100 automated tasks/month, now with AI steps.
 - [Otter.ai](https://otter.ai) - Free basic plan for AI meeting notes and transcription.
 - [Prompt Generator](https://trypromptgenerator.com) - Writes prompts in the syntax of the AI tool you pick (ChatGPT, Claude, Gemini, Midjourney, Nano Banana, Veo, Sora and more); free tier: 10 prompts/day with no account, 20 with a free account, no card.
