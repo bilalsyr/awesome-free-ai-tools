@@ -34,6 +34,7 @@ Free AI tools in 2026 are better than most paid plans were in 2024. This list on
 - [Qwen](https://chat.qwen.ai) - Free app: chat, image generation, deep research agent and voice.
 - [Mistral Le Chat](https://chat.mistral.ai) - Free European chatbot, fast and multilingual.
 - [Microsoft Copilot](https://copilot.microsoft.com) - Free with a Microsoft account, web-connected answers.
+- [Sitey AI](https://app.sitey.pk/) - Free Urdu AI assistant and Android app: answers in Urdu, Roman Urdu or English, with 30 messages and 40 Urdu AI voices a day free.
 
 ## AI Search & Research
 
