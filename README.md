@@ -84,6 +84,7 @@ Free AI tools in 2026 are better than most paid plans were in 2024. This list on
 
 - [Canva AI](https://www.canva.com) - Free tier with Magic Studio AI design credits.
 - [EasySociable](https://easysociable.com/) — Agent skill that turns a prompt into a branded social carousel (TikTok, Instagram, LinkedIn). Free plan $0 with 3 downloads/mo, no credit card.
+- [GuruTrans](https://gurutrans.app/) - AI translation tools for languages, old English styles, and Morse code. Free tier: registered users get 5 free translations a day.
 - [Zapier](https://zapier.com) - Free tier: 100 automated tasks/month, now with AI steps.
 - [Otter.ai](https://otter.ai) - Free basic plan for AI meeting notes and transcription.
 - [Prompt Generator](https://trypromptgenerator.com) - Writes prompts in the syntax of the AI tool you pick (ChatGPT, Claude, Gemini, Midjourney, Nano Banana, Veo, Sora and more); free tier: 10 prompts/day with no account, 20 with a free account, no card.
