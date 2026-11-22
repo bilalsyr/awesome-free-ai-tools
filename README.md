@@ -53,6 +53,7 @@ Free AI tools in 2026 are better than most paid plans were in 2024. This list on
 - [FaceSwap.Free](https://faceswap.free/) - Free browser face swap for photos and short GIFs with four AI models; no sign-up and no limit on swaps, results carry a small semi-transparent mark.
 - [Pollinations.ai](https://pollinations.ai) - Free AI image API, no signup required.
 - [PromptImage](https://promptimage.cloud) - Free AI image gallery + image/video generator (Freemium).
+- [Reletter](https://aiedittextinimage.com/) — Edit text detected in screenshots and product photos, with free browser editing and watermarked previews. Clean exports and Pro redraws use credits.
 - [TeslaWraps](https://teslawraps.design) - Free browser Tesla Paint Shop wrap editor; core editing + PNG export free, no account.
 
 ## AI Video Creation & Editing
