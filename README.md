@@ -80,6 +80,7 @@ Free AI tools in 2026 are better than most paid plans were in 2024. This list on
 - [Windsurf](https://windsurf.com) - Free tier AI coding assistant (formerly Codeium).
 
 ## AI Productivity
+- [ChatSequel](https://vertexforth.com/en/prax9/chatsequel/) — Free Chrome extension for ChatGPT response continuation, per-tab controls and context handoff.
 - [AI 만화 번역기](https://www.mangatranslate.com/ko/ai-manga-translator/) — Ficory LLC의 기업급 만화 리더는 개인의 일괄·맞춤 번역, 스튜디오용 완전한 온라인 Photoshop 스타일 편집기, 개인 작업 흐름용 API 연동과 제품이 지원하는 모든 번역 언어를 제공하며, 일일 출석으로 받는 무료 크레딧 안에서 번역을 체험할 수 있습니다.
 
 - [Canva AI](https://www.canva.com) - Free tier with Magic Studio AI design credits.
