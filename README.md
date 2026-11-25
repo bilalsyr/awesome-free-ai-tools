@@ -89,6 +89,7 @@ Free AI tools in 2026 are better than most paid plans were in 2024. This list on
 - [Prompt Generator](https://trypromptgenerator.com) - Writes prompts in the syntax of the AI tool you pick (ChatGPT, Claude, Gemini, Midjourney, Nano Banana, Veo, Sora and more); free tier: 10 prompts/day with no account, 20 with a free account, no card.
 - [Transcribe Video: To The Text](https://video2text.ttt.so) - iOS app for video/YouTube/Vimeo/live-voice transcription with speaker split, Summarize, TXT/DOCX export; free ~5 min total + 5 MB file cap.
 - [Gamma](https://gamma.app) - Free one-time credits for AI-generated presentations and sites.
+- [Kite](https://kite.new) — Design tool your AI agents (Claude, ChatGPT, Cursor, Codex via MCP) and your team edit together; copy frames as HTML, React or Tailwind. Free plan: unlimited editors, 3 files, 100 agent actions/day, no credit card.
 - [v0.dev](https://v0.dev) - Free tier for generating UI with AI.
 - [Bolt.new](https://bolt.new) - Free tier for building apps with AI prompts.
 
